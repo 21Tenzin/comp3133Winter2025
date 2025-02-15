@@ -1,0 +1,8 @@
+type Movie{
+    id: ID!
+    name: String!
+    director_name: String!
+    production_house: String!
+    release_date: String!
+    rating: Float!
+}
